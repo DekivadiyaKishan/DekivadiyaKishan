@@ -12,7 +12,7 @@ I'm working on Golang. <br>I'm currently learning new technologies like gRPC, we
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DekivadiyaKishan&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DekivadiyaKishan&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coding..."/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding..."/>
 </p>
 
 ![]()
